@@ -1,0 +1,64 @@
+#datatable-keytable tr th,#datatable-keytable tr td{
+    text-align: center;
+}
+#datatable-keytable .img_pro{
+    max-width: 50px;
+    max-height: 50px;
+}
+#datatable-keytable .old_price{
+    color: #888;
+    text-decoration: line-through;
+}
+.img_edit{
+    max-width: 150px;
+    max-height: 150px;
+}
+.count_cate{
+    background: #00a65a !important;
+    border-radius: 3px 3px 0 0 ;
+    color:#fff;
+}
+.count_cate .c_cate{
+    font-size: 30px;
+    padding: 0 10px;
+}
+.count_cate p{
+    padding: 0 10px;
+}
+.count_pro{
+    background: #dd4b39 !important;
+    border-radius: 3px;
+    color:#fff;
+}
+.count_pro .c_pro{
+    font-size: 30px;
+    padding: 0 10px;
+}
+.count_pro p{
+    padding: 0 10px;
+}
+.count_post{
+    background: #00c0ef !important;
+    border-radius: 3px;
+    color:#fff;
+}
+.count_post .c_post{
+    font-size: 30px;
+    padding: 0 10px;
+}
+.count_post p{
+    padding: 0 10px;
+}
+.small-box-footer {
+    text-align: center;
+    padding: 3px 0;
+    color: rgba(255,255,255,0.8);
+    display: block;
+    z-index: 10;
+    background: rgba(0,0,0,0.1);
+    text-decoration: none;
+}
+.small-box-footer:hover {
+    color: #fff;
+    background: rgba(0,0,0,0.15);
+}
